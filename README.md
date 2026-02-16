@@ -1,10 +1,10 @@
-# BruhBrowser 2.0
+# BruhBrowser 2.5
 
-### What is BruhBrowser 2.0?
+### What is BruhBrowser 2.5?
 
-BruhBrowser 2.0 is a lightweight, resource-efficient web browser built just for fun by **bioniclimit2**. It’s simple, it’s clean, and it works (most of the time). Whether you’re on a gaming PC or a literal toaster, this browser has your back. Why? Because *¯\\\_(ツ)_/¯*.
+BruhBrowser 2.5 is a lightweight, resource-efficient web browser built just for fun by **bioniclimit2**. It’s simple, it’s clean, and it works (most of the time). Whether you’re on a gaming PC or a literal toaster, this browser has your back. Why? Because *¯\\\_(ツ)_/¯*.
 
-*Fine print*: Yes, it’s **BruhBrowser 2.0**, not "Modern Bruh Browser." That name got stuck somewhere in the code, but who’s keeping track?
+*Fine print*: Yes, it’s **BruhBrowser 2.5**, not "Modern Bruh Browser." That name got stuck somewhere in the code, but who’s keeping track?
 
 ### Features
 
@@ -22,13 +22,13 @@ BruhBrowser 2.0 is a lightweight, resource-efficient web browser built just for 
 2. **Unzip It**:
    Extract the ZIP file to any folder you like. Desktop? Sure. Random folder you’ll forget later? Also fine.
 
-3. **Run the `.exe`**:
-   Double-click the `.exe` file and boom, you’re now running BruhBrowser 2.0.
+3. **Run the `.exe OR .py`**:
+   Double-click the `.exe OR .py` file and boom, you’re now running BruhBrowser 2.0.
 
 4. Browse the web like a champ. Or a potato. Your choice.
 
 ### Why Did I Make This?
 
-Honestly? Idk. I was bored, and building a browser seemed like a good idea at the time. So here it is. *¯\\\_(ツ)_/¯*. Made by **bioniclimit2**.
+Honestly? Idk. I was bored, and building a browser seemed like a good idea at the time. So here it is. *¯\_(ツ)_/¯*. Made by **bioniclimit2**.
 
 ---
